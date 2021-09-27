@@ -55,7 +55,7 @@ All these aspects are more detailed in my report, including some diagrams and sc
 
 Please find a few screenshots taken during the development below:
 
-- Event registration page: 
+- Event registration page (the forms are easily customizable at event creation using the staff dashboard): 
 
   ![The registration page for an event](img/registration_screen.png "The registration page for an event")
 
