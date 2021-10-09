@@ -67,7 +67,7 @@ Please find a few screenshots taken during the development below:
 
 The website will be made available when DAPJL will resume the organization of the events that need online registration.
 
-Its address will be [evenements.desailespourjulesetlouise.fr](https://evenements.desailespourjulesetlouise.fr/).
+Its address will be [evenements.dapjl.org](https://evenements.dapjl.org/).
 
 ## Get access to the report
 
