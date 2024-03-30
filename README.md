@@ -4,12 +4,6 @@ This GitHub repo contains a short presentation of my internship at the [Des aile
 
 Please note that in the context of the COVID-19 pandemic the DAPJL events schedule was frozen and therefore the deployment of the software components of this project was planned to a later date during the development.
 
-To get access to the complete report (in french), please head to the [dedicated section](#get-access-to-the-report).
-
-You can also reach me by email at the following address: [dev@julesgdn.fr](mailto:dev@julesgdn.fr).
-
-*If you are a recruiter, private demos of this project are still possible and I have the authorization of the DAPJL administration councel to do so.*
-
 ## The project
 
 The main goal of this project was to develop an online registration platform for DAPJL events, using technologies like Java and Play Framework. This platform was created in a context where the organization was using a third party tool which didn't fully suit its needs. This project was an opportunity to switch to a fully organization owned and operated service that can evolve in the future following its needs.
@@ -68,13 +62,3 @@ Please find a few screenshots taken during the development below:
 The website will be made available when DAPJL will resume the organization of the events that need online registration.
 
 Its address will be [evenements.dapjl.org](https://evenements.dapjl.org/).
-
-## Get access to the report
-
-During my internship I wrote a report which presents the work I did, from software analysis to implementation.
-
-To protect this last and for privacy reasons it is not accessible directly, but if you're interested in my profile and my work you can request access to this report.
-
-Request access to the report by [clicking here](mailto:dev@julesgdn.fr?subject=DAPJL%20Internship%20Report%20access%20request).
-
-Thank you for your interest into this project.
